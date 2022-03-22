@@ -1,6 +1,6 @@
 ## Bienvenidos Humanos
 
-You can use the [editor on GitHub](https://github.com/Neversunrise/pagina-web/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Un mundo sin libertad de expresion, es un mundo vacio y hueco. El unico sonido que queda es el de tu alma
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
